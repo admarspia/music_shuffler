@@ -1,7 +1,7 @@
 from pathlib import Path
 
 DEFAULT_EXTENSIONS = {
-    ".mp3", ".flac", ".ogg", ".wav", ".m4a",
+    ".mp3","mp4", ".flac", ".ogg", ".wav", ".m4a",
     ".aac", ".opus", ".wma", ".alac", ".webm",
 }
 
